@@ -7,7 +7,7 @@ This calculator performs basic arithmetic operations with a clean modern UI and 
 
 ## 🚀 Live Demo
 
-🔗 [View Live Application](#)
+🔗 [https://achu19desg.github.io/calculator/](#)
 
 ---
 
